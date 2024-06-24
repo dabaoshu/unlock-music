@@ -22,12 +22,12 @@ yarn-error.log*
 *.sln
 *.sw?
 
-/src/KgmWasm/build
-/src/KgmWasm/*.js
-/src/KgmWasm/*.wasm
-/src/QmcWasm/build
-/src/QmcWasm/*.js
-/src/QmcWasm/*.wasm
+# /src/KgmWasm/build
+# /src/KgmWasm/*.js
+# /src/KgmWasm/*.wasm
+# /src/QmcWasm/build
+# /src/QmcWasm/*.js
+# /src/QmcWasm/*.wasm
 
 *.zip
 *.tar.gz

@@ -1,0 +1,1 @@
+/home/code/unlock-music/build/emsdk/upstream/emscripten/em++ -O3 -DNDEBUG --bind -s NO_DYNAMIC_EXECUTION=1 -s MODULARIZE=1 -s EXPORT_NAME=QmcCryptoModule -s EXPORTED_RUNTIME_METHODS=getValue,writeArrayToMemory,UTF8ToString -s WASM=0 --memory-init-file 0 @CMakeFiles/QmcLegacy.dir/objects1.rsp -o QmcLegacy.js 
